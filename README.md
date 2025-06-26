@@ -14,53 +14,41 @@ I'm currently on a journey to become a skilled full-stack developer, learning st
 ### 🌱 I’m currently learning...
 
 <p align="center">
-  <a href="https://git-scm.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
 </p>
 
 ### 🚀 Technologies I'm interested in / Plan to learn in the future...
 
 <p align="center">
-  <a href="https://angular.io/" target="_blank" rel="noopener noreferrer">
+  <a href="https://angular.io/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular" />
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.docker.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
   </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://getbootstrap.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="50" height="50" alt="Bootstrap" />
   </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener noreferrer">
+  <a href="https://spring.io/projects/spring-boot">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.mongodb.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="NoSQL (MongoDB)" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.mysql.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
   </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer">
+  <a href="https://jupyter.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter Notebooks" />
   </a>
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://powerbi.microsoft.com/">
     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="Power BI" height="50" />
   </a>
 </p>
-
-<img src="assets/border_separator.gif" alt="border separator" width="100%">
 
 ### 📫 How to reach me:
 
