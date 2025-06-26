@@ -25,15 +25,18 @@ I'm currently on a journey to become a skilled full-stack developer, learning st
 
 ### 📫 How to reach me:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karolinerocha.st@gmail.com)  
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/try_katch/)
+<p align="center">
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karolinerocha.st@gmail.com)  
+  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/try_katch/)
+</p>
 
 <img src="assets/border_separator.gif" alt="border separator" width="100%">
 
 ### 🔗 More links
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/try-katch?tab=repositories)
-[![Followers](https://img.shields.io/github/followers/try-katch?style=for-the-badge)](https://github.com/try-katch)
+<p align="center">
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/try-katch?tab=repositories)
+  [![Followers](https://img.shields.io/github/followers/try-katch?style=for-the-badge)](https://github.com/try-katch)
+</p>
 
 <img src="assets/border_separator.gif" alt="border separator" width="100%">
 
@@ -48,7 +51,10 @@ I'm currently on a journey to become a skilled full-stack developer, learning st
 
 ### 👀 Profile Views
 
-<img src="https://profile-counter.glitch.me/try-katch/count.svg" width="250" alt="Profile Views" />
+<p align="center">
+  <img src="https://profile-counter.glitch.me/try-katch/count.svg" width="250" alt="Profile Views" />
+</p>
+
 
 
 
