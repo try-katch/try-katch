@@ -3,7 +3,7 @@
 
 ### 👩‍💻 About Me
 My name is **Karoline** — aka **Karol** or by my codename **try_katch**.  
-I'm currently on a journey to become a skilled fullstack developer, learning step by step and constantly exploring how things work.
+I'm currently on a journey to become a skilled full-stack developer, learning step by step and constantly exploring how things work.
 
 ---
 
