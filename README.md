@@ -6,8 +6,9 @@
 
 ### 👩‍💻 About Me
 
-My name is **Karoline**, _aka_ **Karol** or by the codename **try_katch**.  
-I'm currently on a journey to become a **full-stack developer**, learning step by step and constantly exploring how things work.
+My name is **Karoline**, _aka_ **Karol** or by the _codename_ **try_katch**.
+
+⚒️ I'm currently on a journey to become a **full-stack developer**, learning step by step and constantly exploring how things work.
 
 <img src="assets/border_separator.gif" alt="border separator" width="100%">
 
@@ -51,7 +52,7 @@ I'm currently on a journey to become a **full-stack developer**, learning step b
 
 <img src="assets/border_separator.gif" alt="border separator" width="100%">
 
-### 🧠 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=try-katch&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" />
@@ -60,10 +61,16 @@ I'm currently on a journey to become a **full-stack developer**, learning step b
 
 <img src="assets/border_separator.gif" alt="border separator" width="100%">
 
+### 🎯 2025 Goals
+- Master the **fundamentals of HTML, CSS, and JavaScript** 🧠
+- Build small projects to **practice and apply what I learn** 🦾
+- Stay consistent and **learn step by step every week** ⏰
+
+<img src="assets/border_separator.gif" alt="border separator" width="100%">
+
 ### 👀 Profile Views
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/try-katch/count.svg" width="250" alt="Profile Views" />
 </p>
-
 
