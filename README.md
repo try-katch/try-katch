@@ -21,6 +21,14 @@ I'm currently on a journey to become a skilled full-stack developer, learning st
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
 </p>
 
+### 🌱 I’m also interested in / plan to learn...
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+</p>
+
 <img src="assets/border_separator.gif" alt="border separator" width="100%">
 
 ### 📫 How to reach me:
