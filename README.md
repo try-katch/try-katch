@@ -25,10 +25,8 @@ I'm currently on a journey to become a skilled full-stack developer, learning st
 
 ### 📫 How to reach me:
 
-<div align="center">
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karolinerocha.st@gmail.com)
-  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/try_katch/)
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karolinerocha.st@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/try_katch/)
 
 <img src="assets/border_separator.gif" alt="border separator" width="100%">
 
