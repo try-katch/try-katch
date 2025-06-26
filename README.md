@@ -40,7 +40,7 @@ I'm currently on a journey to become a skilled full-stack developer, learning st
 
 ### 🔗 More links
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/try-katch?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/try-katch?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/try-katch?style=for-the-badge)](https://github.com/try-katch)
 
 <p align="center">
