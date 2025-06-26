@@ -22,10 +22,10 @@ I'm currently on a journey to become a skilled fullstack developer, learning ste
 ### 📫 How to reach me:
 
 <div>
-  <a href="mailto:contato@karolinerocha.st@gmail.com" target="_blank">
+  <a href="mailto:karolinerocha.st@gmail.com" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://instagram.com/try-katch" target="_blank">
+  <a href="https://www.instagram.com/try_katch/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
@@ -36,7 +36,6 @@ I'm currently on a journey to become a skilled fullstack developer, learning ste
 
 <div>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=try-katch&layout=compact&langs_count=7&theme=dracula" alt="Top Languages"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=try-katch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </div>
 
   
