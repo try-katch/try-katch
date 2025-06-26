@@ -40,4 +40,8 @@ I'm currently on a journey to become a skilled full-stack developer, learning st
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=try-katch&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </div>
 
+## Profile Views
+  <img src="https://profile-counter.glitch.me/try-katch/count.svg" width="500px" />
+
+
   
