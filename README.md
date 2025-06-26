@@ -1,11 +1,10 @@
-# Hello World! 👋  
-## Welcome to my GitHub profile. ☺️  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=89CFF0&width=700&height=60&lines=%23+Hello+World!+%F0%9F%91%8B;##+Welcome+to+my+GitHub+profile.+%E2%98%BA%EF%B8%8F)](https://git.io/typing-svg)
 
 ### 👩‍💻 About Me
 My name is **Karoline**, aka **Karol** or by the codename **try_katch**.  
 I'm currently on a journey to become a skilled full-stack developer, learning step by step and constantly exploring how things work.
 
----
+<img src="./assets/border_separator.gif">
 
 ### 🌱 I’m currently learning:
 
@@ -17,7 +16,7 @@ I'm currently on a journey to become a skilled full-stack developer, learning st
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
 </p>
 
----
+<img src="./assets/border_separator.gif">
 
 ### 📫 How to reach me:
 
@@ -30,7 +29,7 @@ I'm currently on a journey to become a skilled full-stack developer, learning st
   </a>
 </div>
 
----
+<img src="./assets/border_separator.gif">
 
 ### 🧠 GitHub Stats
 
