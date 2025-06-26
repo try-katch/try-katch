@@ -36,6 +36,7 @@ I'm currently on a journey to become a skilled full-stack developer, learning st
 
 <div>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=try-katch&layout=compact&langs_count=7&theme=dracula" alt="Top Languages"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=try-katch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
   
