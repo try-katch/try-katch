@@ -6,8 +6,8 @@
 
 ### 👩‍💻 About Me
 
-My name is **Karoline**, aka **Karol** or by the codename **try_katch**.  
-I'm currently on a journey to become a skilled full-stack developer, learning step by step and constantly exploring how things work.
+My name is **Karoline**, _aka_ **Karol** or by the codename **try_katch**.  
+I'm currently on a journey to become a **full-stack developer**, learning step by step and constantly exploring how things work.
 
 <img src="assets/border_separator.gif" alt="border separator" width="100%">
 
@@ -39,7 +39,7 @@ I'm currently on a journey to become a skilled full-stack developer, learning st
 ### 📫 How to reach me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karolinerocha.st@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/try_katch/)
+<!-- [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/try_katch/) -->
 
 <img src="assets/border_separator.gif" alt="border separator" width="100%">
 
