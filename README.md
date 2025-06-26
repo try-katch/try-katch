@@ -13,11 +13,13 @@ I'm currently on a journey to become a skilled full-stack developer, learning st
 
 ### 🌱 I’m currently learning...
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+</p>
 
 <img src="assets/border_separator.gif" alt="border separator" width="100%">
 
@@ -37,8 +39,10 @@ I'm currently on a journey to become a skilled full-stack developer, learning st
 
 ### 🧠 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=try-katch&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=try-katch&show_icons=true&theme=dracula" alt="GitHub Stats" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=try-katch&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=try-katch&show_icons=true&theme=dracula" alt="GitHub Stats" />
+</p>
 
 <img src="assets/border_separator.gif" alt="border separator" width="100%">
 
