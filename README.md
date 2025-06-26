@@ -15,7 +15,7 @@ I'm currently on a journey to become a skilled full-stack developer, learning st
   <img src="https://i.gifer.com/origin/7a/7a0a102ca1b95c0ddc33f22f408e9f23.gif" alt="shining separator" width="80%" />
 </p>
 
-### 🌱 I’m currently learning
+### 🌱 I’m currently learning...
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
@@ -29,7 +29,7 @@ I'm currently on a journey to become a skilled full-stack developer, learning st
   <img src="https://i.gifer.com/origin/7a/7a0a102ca1b95c0ddc33f22f408e9f23.gif" alt="shining separator" width="80%" />
 </p>
 
-### 📫 How to reach me
+### 📫 How to reach me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karolinerocha.st@gmail.com)  
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/try_katch/)
