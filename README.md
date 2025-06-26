@@ -21,7 +21,7 @@ I'm currently on a journey to become a **full-stack developer**, learning step b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
 </p>
 
-### 🚀 Technologies I'm interested in / Plan to learn in the future...
+### 🚀 Technologies I'm interested in...
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular" />
@@ -67,6 +67,3 @@ I'm currently on a journey to become a **full-stack developer**, learning step b
 </p>
 
 
-
-
-  
