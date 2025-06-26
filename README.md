@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=7000&pause=2000&color=47E1F7&background=131313FD&center=true&vCenter=true&multiline=true&width=435&lines=Hello+World!+%F0%9F%91%8B+;Welcome+to+my+GitHub+profile.+%E2%98%BA%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=7000&pause=2000&color=47E1F7&background=131313FD&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B+;Welcome+to+my+GitHub+profile.+%E2%98%BA%EF%B8%8F)](https://git.io/typing-svg)
+
+<img src="./assets/border_separator.gif">
 
 ### 👩‍💻 About Me
 My name is **Karoline**, aka **Karol** or by the codename **try_katch**.  
