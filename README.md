@@ -69,11 +69,3 @@ My name is **Karoline**, _aka_ **Karol** or by the _codename_ **try_katch**.
 - Build small projects to **practice and apply what I learn** 🦾
 - Stay consistent and **learn step by step every week** ⏰
 
-<img src="assets/border_separator.gif" alt="border separator" width="100%">
-
-### 👀 Profile Views
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/try-katch/count.svg" width="250" alt="Profile Views" />
-</p>
-
